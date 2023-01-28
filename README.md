@@ -3,7 +3,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=rgl747&label=Profile%20views&color=0e75b6&style=flat" alt="rgl747" /> </p>
 
-- 🌱 I’m currently learning **Web Development**
+- 🌱 I’m currently learning **Web and Mobile Development**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
